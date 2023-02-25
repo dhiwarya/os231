@@ -13,3 +13,16 @@ permalink: LINKS/
     
 3. [Referensi instalasi debian](https://www.youtube.com/watch?v=Wm9sf67mn7k)
     Untuk bantuan saya instalasi debian saya menggunakan youtube sebagai referensi, terutama bagi saya yang menggunakan MacBook prosessor intel.
+---
+Week 02
+1. [ChatGPT](https://chat.openai.com/chat)
+    This is an Artificial Chatbot that works like google but curated the information for you. Chatgpt really useful whenever I comes upon obstacle but     
+    cannot found solution elsewhere.
+
+2. [Ssh introduction](https://www.youtube.com/watch?v=qWKK_PNHnnA)
+    This is a youtube video explaining a about what is SSH and how does it works. I found really interesting because of how far information technology have
+    improved until this point and learning how information are being transferred in much more deeper level.
+    
+3. [Transfer folder between Mac and Linux](https://medium.com/macoclock/share-folder-between-macos-and-ubuntu-4ce84fb5c1ad)
+    This website gives me better understanding on how to transfer file between two different OS. This is particularly interesting because I can now
+    understand the basic of both computer are basically the same but developed with diferent principle.
