@@ -1,5 +1,5 @@
 ---
-permalink: LINKS/
+permalink: os231/LINKS/
 ---
 
 # LINKS
