@@ -26,3 +26,11 @@ Week 02
 3. [Transfer folder between Mac and Linux](https://medium.com/macoclock/share-folder-between-macos-and-ubuntu-4ce84fb5c1ad)
     This website gives me better understanding on how to transfer file between two different OS. This is particularly interesting because I can now
     understand the basic of both computer are basically the same but developed with diferent principle.
+---
+Week 03
+1. [Makefile guides](https://stackoverflow.com/questions/9580566/missing-separator-in-makefile)
+   So this forum helps me understand how to make a Makefile properly because I was having difficulty when making Makefile it says that I am missing a 
+   a separator but it turns out I supposed to use tab instead of space bar, such a silly mistake but could affect the whole code.
+
+2. [OS website by Cicak Bin Kadal](https://doit.vlsm.org/015.html)
+    Honestly the tutorial offered in the website already covered most of what I must do, and I can understand how to make external storage better :).
