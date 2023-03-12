@@ -6,7 +6,7 @@ permalink: LINKS/
 ---
 ## Week 01
 1. [Oracle Virtual Box](https://www.virtualbox.org/wiki/Downloads)
-    Website ini membantu saya menjalankan debian 11 dikarenakan saya menggunakan macbook dengan processor intel sehingga saya tidak bisa memakai UTM.
+    Website ini membantu saya menjalankan debian 11 dikarenakan saya menggunakan macbook dengan processor intel sehingga       saya tidak bisa memakai UTM.
     
 2. [Debian](https://www.debian.org/download)
     Website ini saya gunakan untuk mendownload ISO file debian yang kompatibel dengan laptop saya.
@@ -34,3 +34,15 @@ permalink: LINKS/
 
 2. [OS website by Cicak Bin Kadal](https://doit.vlsm.org/015.html)
     Honestly the tutorial offered in the website already covered most of what I must do, and I can understand how to make external storage better :).
+---
+## Week 04
+1. [C Language: Warning](https://www.techonthenet.com/c_language/directives/warning.php)
+    When compiling with TLPI oftenly there's an a warning in a few c file that going to be compile. The point is, the 
+    warning did not cancel the process rather it is just act as a flag.
+
+2. [TLPI FAQ](https://man7.org/tlpi/code/faq.html)
+    Contains frequently asked question surrounding the Linux Programming Interface.
+    
+3. [Introduction to TLPI](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface)
+    Explain about what is TPLI and what are the function of TPLI
+    
