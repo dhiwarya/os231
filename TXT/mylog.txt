@@ -24,3 +24,9 @@ ZCZC W04 100 L02 Synchronous Class (7 Mar)
 ZCZC W04 40 L06 Reading Assignment
 ZCZC W04 30 L09 Weekly Assignments
 ZCZC W04 10 L41 TXT/mylog.txt related
+ZCZC W05 100 L02 Synchronous Class (13 Mar)
+ZCZC W05 100 L02 Synchronous Class (14 Mar)
+ZCZC W05 40 L06 Reading Assignment
+ZCZC W05 05 L05 Quiz
+ZCZC W05 60 L09 Weekly Assignments
+ZCZC W05 10 L41 TXT/mylog.txt related
