@@ -45,4 +45,13 @@ permalink: LINKS/
     
 3. [Introduction to TLPI](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface)
     Explain about what is TPLI and what are the function of TPLI
-    
+
+## Week 05
+1. [Printf Formating Cheat Sheet](https://alvinalexander.com/programming/printf-format-cheat-sheet/)
+    A cheat sheet of how printf works in C language. Also with example to with clear output result of the code.
+
+2. [Little vs Big](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)
+    Explain the difference between little and big endian
+
+3. [Makefile 101](https://makefiletutorial.com/)
+    Explain a brief introduction about how to make Makefile
