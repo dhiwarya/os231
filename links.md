@@ -3,7 +3,7 @@ permalink: LINKS/
 ---
 
 # LINKS
----
+
 ## Week 01
 1. [Oracle Virtual Box](https://www.virtualbox.org/wiki/Downloads)
     Website ini membantu saya menjalankan debian 11 dikarenakan saya menggunakan macbook dengan processor intel sehingga       saya tidak bisa memakai UTM.
@@ -13,7 +13,7 @@ permalink: LINKS/
     
 3. [Referensi instalasi debian](https://www.youtube.com/watch?v=Wm9sf67mn7k)
     Untuk bantuan saya instalasi debian saya menggunakan youtube sebagai referensi, terutama bagi saya yang menggunakan MacBook prosessor intel.
----
+
 ## Week 02
 1. [ChatGPT](https://chat.openai.com/chat)
     This is an Artificial Chatbot that works like google but curated the information for you. Chatgpt really useful whenever I comes upon obstacle but     
@@ -26,7 +26,7 @@ permalink: LINKS/
 3. [Transfer folder between Mac and Linux](https://medium.com/macoclock/share-folder-between-macos-and-ubuntu-4ce84fb5c1ad)
     This website gives me better understanding on how to transfer file between two different OS. This is particularly interesting because I can now
     understand the basic of both computer are basically the same but developed with diferent principle.
----
+
 ## Week 03
 1. [Makefile guides](https://stackoverflow.com/questions/9580566/missing-separator-in-makefile)
    So this forum helps me understand how to make a Makefile properly because I was having difficulty when making Makefile it says that I am missing a 
@@ -34,7 +34,7 @@ permalink: LINKS/
 
 2. [OS website by Cicak Bin Kadal](https://doit.vlsm.org/015.html)
     Honestly the tutorial offered in the website already covered most of what I must do, and I can understand how to make external storage better :).
----
+
 ## Week 04
 1. [C Language: Warning](https://www.techonthenet.com/c_language/directives/warning.php)
     When compiling with TLPI oftenly there's an a warning in a few c file that going to be compile. The point is, the 
@@ -55,3 +55,10 @@ permalink: LINKS/
 
 3. [Makefile 101](https://makefiletutorial.com/)
     Explain a brief introduction about how to make Makefile
+
+## Week 06
+1. [Linux Kernel Archive](https://www.kernel.org/)
+    Update about Linux kernel that helped me understand more about Linux Kernel.
+    
+2. [How to copy files from localhost to remote host](https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh)
+    Help me understand how transfer file between machine works and it also helped me with my popquiz 
