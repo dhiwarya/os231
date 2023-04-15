@@ -9,3 +9,5 @@ ZCZC W05 nois44
 ZCZC W05 novalzfahr
 ZCZC W06 septio-nugroho
 ZCZC W06 Trunsta
+ZCZC W07 adlyrndi
+ZCZC W07 alifismady
