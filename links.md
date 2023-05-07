@@ -61,4 +61,18 @@ permalink: LINKS/
     Update about Linux kernel that helped me understand more about Linux Kernel.
     
 2. [How to copy files from localhost to remote host](https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh)
-    Help me understand how transfer file between machine works and it also helped me with my popquiz 
+    Help me understand how transfer file between machine works and it also helped me with my popquiz
+    
+## Week 07
+1. [How to discard local changes in github](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/remove-revert-discard-local-uncommitted-changes-Git-how-to#:~:text=The%20commands%20to%20discard%20all,git%20clean%20%2Dfxd)
+    Sometimes you want to fix mistake directly from remote repo this exactly does that
+
+3. [How to use SCP command to securely transfer file](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+    This article helped me understand how transfer between host works. Also, try WinSCP but you'll need to get your ssh public key.
+
+## Week 08
+1. [Youtube LFS tutorial](https://www.youtube.com/watch?v=YYQn1n4Lc9k&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP&index=4)
+   As a visual learner, this helps me tremendously with navigating through the LFS website and giving example too
+2. [LFS slides](https://www.slideshare.net/alvindzz/tutorial-membangun-linux-from-scratch-dari-awal)
+    This really breaksdown LFS therefore helped me understand about it in a deeper level.
+
